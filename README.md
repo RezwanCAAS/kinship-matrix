@@ -4,5 +4,13 @@
  example file name is same-allele.xlsx
 
 
+library(readxl)
+
+library(gplots)
+
+library(ggplot2)
+
+library(viridis)
+
 
 
